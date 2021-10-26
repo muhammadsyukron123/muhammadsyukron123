@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Syukron Abdillah, you can call me Syukron</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Syukron Abdillah</h1>
 <h3 align="center">I'm an Informatics Engineering Education Student at State of Yogyakarta University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsyukron123&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsyukron123" /> </p>
