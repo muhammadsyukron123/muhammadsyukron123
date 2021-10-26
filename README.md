@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syukron Abdillah</h1>
 <h3 align="center">I'm an Informatics Engineering Education Student at State of Yogyakarta University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsyukron123&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsyukron123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsyukron123" alt="muhammadsyukron123" /></a> </p>
-
 - 🌱 I’m currently learning **Android Mobile Application especially with Android Kotlin Development**
 
 - 📫 How to reach me **muhammadsyukronabdillah@gmail.com**
