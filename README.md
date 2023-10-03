@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syukron Abdillah</h1>
-<h3 align="center">I'm an Informatics Engineering Education Student at State of Yogyakarta University</h3>
+<h3 align="center">I'm a freshgraduate from Bachelor of Informatics Engineering Education at State of Yogyakarta University</h3>
 
 - 🌱 I’m currently learning **Android Mobile Application especially with Android Kotlin Development**
 
