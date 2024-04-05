@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syukron Abdillah</h1>
 <h3 align="center">Freshgraduate Informatics Engineering Education from Yogyakarta State University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsyukron123&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsyukron123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsyukron123" alt="muhammadsyukron123" /></a> </p>
-
-- 🌱 I’m currently learning **.NET technologies (SQL Server, ASP.NET Web Forms, ASP.NET MVC, ASP.NET Web API, and Flutter Multiplatform App Development**
+- 🌱 I’m currently learning **.NET technologies (SQL Server, ASP.NET Web Forms, ASP.NET MVC, ASP.NET Web API) and Flutter Multiplatform App Development**
 
 - 📫 How to reach me **muhammadsyukronabdillah@gmail.com**
 
